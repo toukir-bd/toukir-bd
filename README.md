@@ -6,16 +6,22 @@
   </a>
 </p>
 
-<div align="center">
+<h3 align="center">Connect With Me</h3>
 
-### Connect With Me  
+<p align="center">
+  <a href="https://www.toukirbd.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/toukirbd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:to.toukir.rahman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801753778070">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20portfolio-8A2BE2.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.toukirbd.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%236e7eff.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/toukirbd/)  
-[![Email](https://img.shields.io/badge/Email-%23ff6666.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:to.toukir.rahman@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%47C456.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/8801753778070)  
-
-### 🌸 Thank you for visiting! 🌸  
-
-</div>
+<h3 align="center">🌸 Thank you for visiting! 🌸</h3>
 
