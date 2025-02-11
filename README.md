@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <span align="center">🌸 Connect with me:</span>
 
 <p align="center">
+  <a href="https://www.toukirbd.com/" target="blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20portfolio-8A2BE2" alt="LinkedIn" />
+  </a>
   <a href="https://www.linkedin.com/in/toukirbd/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%236e7eff.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
