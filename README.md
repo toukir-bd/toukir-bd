@@ -32,4 +32,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">🌸 Thank you for visiting! 🌸</h3>
+<h3 align="center" style="color:#F495BF">🌸 Thank you for visiting! 🌸</h3>
