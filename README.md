@@ -19,13 +19,10 @@ Here are some ideas to get you started:
     <img src="https://toukirbd.com/git.png" alt="about" width="100%"/>
   </a>
 </p>
-<h3 align="center">Front-End Developer | UX-UI Designer</h3>
-
-<span align="center">🌸 Connect with me:</span>
-
+<h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://www.toukirbd.com/" target="blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20portfolio-8A2BE2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Visit%20My%20portfolio-8A2BE2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.linkedin.com/in/toukirbd/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%236e7eff.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
