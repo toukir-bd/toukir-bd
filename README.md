@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://toukirbd.com/" target="_blank">
+  <a href="https://toukirbd.com/" target="blank">
     <img src="https://toukirbd.com/git.png" alt="about" width="100%"/>
   </a>
 </p>
 <h3 align="center">Front-End Developer | UX-UI Designer</h3>
 
-### 🌸 Connect with me:
+<span align="center">🌸 Connect with me:</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/toukirbd/" target="_blank">
+  <a href="https://www.linkedin.com/in/toukirbd/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%236e7eff.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:to.toukir.rahman@gmail.com">
