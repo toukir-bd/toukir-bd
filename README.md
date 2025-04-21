@@ -21,8 +21,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0056A3" alt="LinkedIn" />
   </a>
 </p>
-<div class="contra-hire-me-button" data-analyticsUserId="fc8c1cc1-b73b-49f6-804a-e464cbe70ae5" data-theme="light" data-username="toukirbd"></div>
-<script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 
 <h3 align="center">🌸 Thank you for visiting! 🌸</h3>
 
