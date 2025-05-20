@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://toukirbd.com/" target="_blank">
-    <img src="https://toukirbd.com/git.png" alt="about" width="100%"/>
+    <img src="https://raw.githubusercontent.com/toukir-bd/ProtoSystem/refs/heads/main/public/img/git.png" alt="about" width="100%"/>
   </a>
 </p>
 
